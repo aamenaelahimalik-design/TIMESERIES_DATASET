@@ -1,16 +1,24 @@
-Project Overview
+## Project Overview
 
-This project performs a complete Exploratory Time Series Analysis (TSA) on the classic AirPassengers dataset.
+### This project performs a complete Exploratory Time Series Analysis (TSA) on the classic AirPassengers dataset.
 It includes:
 
 ✔ Data loading & cleaning
+
 ✔ Time series visualisation
+
 ✔ Decomposition (Additive, Multiplicative, STL)
+
 ✔ ADF stationarity testing
+
 ✔ Log-transform & differencing
+
 ✔ ACF/PACF analysis
+
 ✔ Outlier detection
+
 ✔ Feature engineering
+
 ✔ Train–Test split
 
 This dataset contains monthly airline passenger numbers from 1949 to 1960 and is widely used to learn time-series forecasting.
